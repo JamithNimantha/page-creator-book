@@ -1124,12 +1124,12 @@ public class MainMenu
         }
         double pgWPx = Double.parseDouble(this.PageWidth) * DPI;
         double pgHPx = Double.parseDouble(this.PageHight) * DPI;
-        double pgSpinPx = PGT * DPI * Pagecount;
+        double pgSpinPx = PGT * Pagecount * DPI;
         int pgDefWPxInt = (int) pgWPx;
         int pgSpinWPxInt = (int) Math.round(pgSpinPx);
         int pgSWInt = (int) (pgDefWPxInt + Math.round(pgSpinPx / 2.0D));
-        int pgCalWPxInt = (int) (pgWPx * 2.0D + pgSpinWPxInt);
-        int pgHPxInt = (int) pgHPx;
+        int pgCalWPxInt = (int) (pgWPx * 2.0D + Math.ceil(pgSpinPx)) + 18;
+        int pgHPxInt = (int) pgHPx + 18;
 
         pgHd = pgHPxInt;
         pgWd = pgCalWPxInt;
