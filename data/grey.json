@@ -1,0 +1,82 @@
+[
+        {
+            "name": "Grey",
+            "value": "#6C626D"
+        },
+        {
+            "name": "Shadow",
+            "value": "#373737"
+        },
+        {
+            "name": "Graphite",
+            "value": "#584D5B"
+        },
+        {
+            "name": "Iron",
+            "value": "#322D31"
+        },
+        {
+            "name": "Pewter",
+            "value": "#6A6880"
+        },
+        {
+            "name": "Cloud",
+            "value": "#C6C6D0"
+        },
+        {
+            "name": "Silver",
+            "value": "#ADADC7"
+        },
+        {
+            "name": "Smoke",
+            "value": "#59515E"
+        },
+        {
+            "name": "Slate",
+            "value": "#3F3D53"
+        },
+        {
+            "name": "Anchor",
+            "value": "#42424C"
+        },
+        {
+            "name": "Ash",
+            "value": "#554C4D"
+        },
+        {
+            "name": "Porpoise",
+            "value": "#4D4C5C"
+        },
+        {
+            "name": "Dove",
+            "value": "#7C6E7F"
+        },
+        {
+            "name": "Fog",
+            "value": "#655965"
+        },
+        {
+            "name": "Flint",
+            "value": "#7E7D9C"
+        },
+        {
+            "name": "Charcoal",
+            "value": "#222023"
+        },
+        {
+            "name": "Pebble",
+            "value": "#333333"
+        },
+        {
+            "name": "Lead",
+            "value": "#403F4D"
+        },
+        {
+            "name": "Coin",
+            "value": "#9897A9"
+        },
+        {
+            "name": "Fossil",
+            "value": "#787276"
+        }
+]

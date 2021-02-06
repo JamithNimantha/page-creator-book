@@ -1,0 +1,82 @@
+[
+        {
+            "name": "Blue",
+            "value": "#3A43BA"
+        },
+        {
+            "name": "Slate",
+            "value": "#757B87"
+        },
+        {
+            "name": "Sky",
+            "value": "#62C5DA"
+        },
+        {
+            "name": "Navy",
+            "value": "#0B1171"
+        },
+        {
+            "name": "Indigo",
+            "value": "#281E5D"
+        },
+        {
+            "name": "Cobalt",
+            "value": "#1338BD"
+        },
+        {
+            "name": "Teal",
+            "value": "#48AAAD"
+        },
+        {
+            "name": "Ocean",
+            "value": "#016064"
+        },
+        {
+            "name": "Peacock",
+            "value": "#012D36"
+        },
+        {
+            "name": "Azure",
+            "value": "#1620A6"
+        },
+        {
+            "name": "Cerulean",
+            "value": "#0492C2"
+        },
+        {
+            "name": "Lapis",
+            "value": "#2732C2"
+        },
+        {
+            "name": "Spruce",
+            "value": "#2C3E4C"
+        },
+        {
+            "name": "Stone",
+            "value": "#59788D"
+        },
+        {
+            "name": "Aegean",
+            "value": "#1E456E"
+        },
+        {
+            "name": "Berry",
+            "value": "#241570"
+        },
+        {
+            "name": "Denim",
+            "value": "#151E3D"
+        },
+        {
+            "name": "Admiral",
+            "value": "#061094"
+        },
+        {
+            "name": "Sapphire",
+            "value": "#52B2C0"
+        },
+        {
+            "name": "Arctic",
+            "value": "#82EDFD"
+        }
+]
