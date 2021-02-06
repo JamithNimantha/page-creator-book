@@ -1,0 +1,83 @@
+[
+        {
+            "name": "Black",
+            "value": "#000000"
+        },
+        {
+            "name": "Ebony",
+            "value": "#080401"
+        },
+        {
+            "name": "Crow",
+            "value": "#130906"
+        },
+        {
+            "name": "Charcoal",
+            "value": "#28231D"
+        },
+        {
+            "name": "Midnight",
+            "value": "#000004"
+        },
+        {
+            "name": "Ink",
+            "value": "#000000"
+        },
+        {
+            "name": "Raven",
+            "value": "#040301"
+        },
+        {
+            "name": "Oil",
+            "value": "#050100"
+        },
+        {
+            "name": "Grease",
+            "value": "#090806"
+        },
+        {
+            "name": "Onyx",
+            "value": "#030106"
+        },
+        {
+            "name": "Pitch",
+            "value": "#020001"
+        },
+        {
+            "name": "Soot",
+            "value": "#150E06"
+        },
+        {
+            "name": "Sable",
+            "value": "#030200"
+        },
+        {
+            "name": "Jet black",
+            "value": "#000000"
+        },
+        {
+            "name": "Coal",
+            "value": "#111008"
+        },
+        {
+            "name": "Metal",
+            "value": "#131210"
+        },
+        {
+            "name": "Obsidian",
+            "value": "#020403"
+        },
+        {
+            "name": "Jade",
+            "value": "#010302"
+        },
+        {
+            "name": "Spider",
+            "value": "#030200"
+        },
+        {
+            "name": "Leather",
+            "value": "#110704"
+        }
+    
+]

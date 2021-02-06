@@ -1,0 +1,82 @@
+[
+        {
+            "name": "Green",
+            "value": "#3BB143"
+        },
+        {
+            "name": "Chartreuse",
+            "value": "#B0FC38"
+        },
+        {
+            "name": "Juniper",
+            "value": "#3A5311"
+        },
+        {
+            "name": "Sage",
+            "value": "#728C69"
+        },
+        {
+            "name": "Lime",
+            "value": "#AEF35A"
+        },
+        {
+            "name": "Fern",
+            "value": "#5CBC63"
+        },
+        {
+            "name": "Olive",
+            "value": "#98BF64"
+        },
+        {
+            "name": "Emerald",
+            "value": "#028910"
+        },
+        {
+            "name": "Pear",
+            "value": "#74B62E"
+        },
+        {
+            "name": "Moss",
+            "value": "#466D1E"
+        },
+        {
+            "name": "Shamrock",
+            "value": "#03AC13"
+        },
+        {
+            "name": "Seafoam",
+            "value": "#3CEC97"
+        },
+        {
+            "name": "Pine",
+            "value": "#234F1E"
+        },
+        {
+            "name": "Parakeet",
+            "value": "#03C04A"
+        },
+        {
+            "name": "Mint",
+            "value": "#98EDC3"
+        },
+        {
+            "name": "Seaweed",
+            "value": "#354A21"
+        },
+        {
+            "name": "Pickle",
+            "value": "#597D35"
+        },
+        {
+            "name": "Pistachio",
+            "value": "#B2D3C2"
+        },
+        {
+            "name": "Basil",
+            "value": "#32612D"
+        },
+        {
+            "name": "Crocodile",
+            "value": "#607D3B"
+        }
+]
