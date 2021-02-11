@@ -1,4 +1,4 @@
-package com.debuggerme.fiverr;
+package com.debuggerme.fiverr.pagecreatorbook;
 
 import com.sun.pisces.Surface;
 import org.json.simple.JSONArray;
@@ -136,12 +136,12 @@ public class MainMenu
         this.SavePDFChooser.setDialogType(1);
 
         setDefaultCloseOperation(0);
-        setTitle("Artwork & Templates Genarator");
+        setTitle("Artwork & Templates Generator");
         setCursor(new Cursor(0));
         setMinimumSize(new Dimension(810, 430));
         setPreferredSize(new Dimension(830, 480));
         setResizable(false);
-        setType(Window.Type.POPUP);
+        setType(Type.POPUP);
         addWindowListener(new WindowAdapter() {
             public void windowClosed(WindowEvent evt) {
                 MainMenu.this.formWindowClosed(evt);
@@ -158,13 +158,13 @@ public class MainMenu
         this.jPanel3.setLayout((LayoutManager) new AbsoluteLayout());
 
         this.jLabel10.setFont(new Font("Century Gothic", 1, 18));
-        this.jLabel10.setText("- Artwork & Templates Genarator -");
+        this.jLabel10.setText("- Artwork & Templates Generator -");
         this.jPanel3.add(this.jLabel10, new AbsoluteConstraints(250, 2, -1, -1));
 
-        this.jLabel8.setText("Copyright © 2018, Ðinu Solutions - All rights reserved.   ");
+        this.jLabel8.setText("Copyright © 2021, DebuggerMe - All rights reserved.");
         this.jPanel3.add(this.jLabel8, new AbsoluteConstraints(70, 410, -1, 17));
 
-        this.jLabel9.setText("Support - <info.dinusolutions@gmail.com>");
+        this.jLabel9.setText("Support - info@debuggerme.com");
         this.jPanel3.add(this.jLabel9, new AbsoluteConstraints(520, 410, -1, -1));
 
         this.jSeparator1.setOrientation(1);
@@ -464,7 +464,7 @@ public class MainMenu
         });
         this.jPanel3.add(this.btnReset, new AbsoluteConstraints(350, 330, 114, 26));
 
-        this.jLabel13.setText("Software Version - ÐV_1.4");
+        this.jLabel13.setText("Software Version - V1.5");
         this.jPanel3.add(this.jLabel13, new AbsoluteConstraints(70, 390, -1, -1));
 
         this.btnMltGenarate.setFont(new Font("Tahoma", 1, 14));
@@ -777,7 +777,7 @@ public class MainMenu
         String line = "";
 
         try {
-            FileReader fileReader = new FileReader(mainColorConfigFile);
+            FileReader fileReader = new FileReader("ColorVar-config.xml");
 
             BufferedReader bufferedReader = new BufferedReader(fileReader);
             while ((line = bufferedReader.readLine()) != null) {

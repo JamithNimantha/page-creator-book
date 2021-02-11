@@ -1,4 +1,4 @@
-package com.debuggerme.fiverr;
+package com.debuggerme.fiverr.pagecreatorbook;
 
 import com.itextpdf.text.Document;
 import com.itextpdf.text.Element;
